@@ -1,0 +1,6 @@
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tangu\Documents\VS Week 3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
